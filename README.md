@@ -1,4 +1,4 @@
-
+![alt text](https://github.com/thereefai/reef-dapp/blob/main/Assets/Reef_AI_Banner.png)
 
 Reef AI: The First On-Chain Intelligent Entity Driven by Market Analytics
 
@@ -30,6 +30,8 @@ Reef AI’s growth is directly shaped by real-time blockchain metrics:
   \- Transaction Volumes: Influence environmental factors, such as plankton or nutrient availability.  
   \- Holder Behavior: Reflects market sentiment, determining the type of Reef Reef AI becomes.  
   \- Market Volatility: Drives unpredictable growth patterns, simulating natural adaptability.
+
+  ![alt text](https://github.com/thereefai/reef-dapp/blob/main/Assets/Representation_of_Reef_AI.png)
 
 Use Cases
 
